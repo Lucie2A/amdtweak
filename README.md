@@ -8,6 +8,13 @@ Last updates :
 - added VEGA 56/64 support from vega10_pptable.h (https://github.com/torvalds/linux/tree/master/drivers/gpu/drm/amd/powerplay/hwmgr)
 - fixed write error to pp_table
 
+Next update will include:
+- Polaris Laptop pp_table: add Hard_Limit_Table version '1' (why Tonga has version '52' ? typo ?)
+
+Missing info:
+- Vega10 pp_table: Hard_Limit_Table version ('2' ?)
+- Vega10 pp_table: VCEstate_Table version confirmation (should be '1', same as Tonga and Polaris)
+
 You can donate to these addresses:
 
  * ETH: 38bda5b65ab2b9a5e065e03132b56273f199931d

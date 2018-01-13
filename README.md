@@ -1,3 +1,25 @@
+This fork is a beta version of main project https://github.com/kobalicek/amdtweak with some new capabilities.
+--------------------------------------------------------------------------------------
+
+This fork is mainly used to be able to send pull request on main AMDTWEAK project.
+Use at your own risk. This tool can edit ANY fields of the pp_table !
+
+Last updates :
+- added VEGA 56/64 support from vega10_pptable.h (https://github.com/torvalds/linux/tree/master/drivers/gpu/drm/amd/powerplay/hwmgr)
+- fixed write error to pp_table
+
+You can donate to these addresses:
+
+ * ETH: 38bda5b65ab2b9a5e065e03132b56273f199931d
+ * ETN: etnkPyfjGRujFanK4pHnn6FMDKq7irdheeNiLiJC13gKdxXteGFZYfYBJY5aMm8VJnFxS2ZVXU5WJL1 SDCkgHgmo87cRiCQ3gL
+ * KRB: Kg2Khr4AesTWwoENxDVJn8LEVUvKQceGBBpPD2YXc1iVLkzrpz9emiH4MGXddC8AwGYiyt7ytkwYH5Z Av2f3jkgzP1phQd4
+ * SIA: 447b9f8dbd3209eb9a876216fd6e273e61c64e00cf3b0cbd5bed171a3483b77b48066234fb86
+ * ZCL: t1Jk3pUtC1nH4pZzN9nhCWneM3eVAjJgrCo
+
+**I DO have several AMD GPU so I can test the amdtweak tools**
+
+**I am NOT a java developper, so I cannot make significant update / addon to main code**
+
 AMD Tweak
 ---------
 

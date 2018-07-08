@@ -5,6 +5,8 @@ This fork is mainly used to be able to send pull request on main AMDTWEAK projec
 Use at your own risk. This tool can edit ANY fields of the pp_table !
 
 Last updates :
+- this tool DO work with last driver 18.20 from AMD for all RX VEGA 65/64 cards. You cannot use older drivers nor the ROCm drivers as each time you write the PP Table thoses driver crash. Only the last 18.20 driver allow to update the PP Table under linux for RX VEGA 56/64 cards.
+
 - added VEGA 56/64 support from vega10_pptable.h (https://github.com/torvalds/linux/tree/master/drivers/gpu/drm/amd/powerplay/hwmgr)
 - fixed write error to pp_table
 
